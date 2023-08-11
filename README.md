@@ -1,4 +1,7 @@
 # BelajarGithub
+==
+Dzikry ingin belajar github
+--
 repository ini hanya untuk uji coba beberapa fitur dan kegunaan di github
 
 *ini hanya bertunjuan sebagai uji coba*
