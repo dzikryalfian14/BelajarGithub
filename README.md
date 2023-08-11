@@ -1,4 +1,4 @@
-# BelajarGithub
+Cara Belajar Github pertama
 ==
 Dzikry ingin belajar github
 --
